@@ -1,3 +1,9 @@
+/* Website background */
+body {
+    /* background-image: url(swbackground.jpg) */
+    background-color: rgb(228, 236, 236);
+}
+
 /* Navigation bar formatting - background, text size and location */
 .nav-link {
     font-size: 20px;
@@ -19,3 +25,4 @@
 .nav-name {
     font-size: 40px;
 }
+
