@@ -26,6 +26,11 @@ body {
     font-size: 40px;
 }
 
-.header-align {
-    font-size: 80px;
+.aboutMe {
+    font-size: 60px;   
+ }
+
+.aboutMePic {
+    align-content: center;
 }
+    
