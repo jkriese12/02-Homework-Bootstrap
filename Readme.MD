@@ -5,8 +5,12 @@ Broken down into 3 HTML tabs. Portfolio, About me, and Contact
 All picture and text is just a place holder to finish a polished one with correct photo of myself and to be a source for my content as I move through my schooling.
 
 Screenshot of application included in files, links for github below
-*Repository*
-https://github.com/jkriese12/02-Homework-Bootstrap
-*Webpage*
-https://jkriese12.github.io/02-Homework-Bootstrap/
 
+-1/16 Update-
+
+Added current work to the portfolio tab with updates to the connect tab to display up to date information.
+
+_Repository_
+https://github.com/jkriese12/02-Homework-Bootstrap
+_Webpage_
+https://jkriese12.github.io/02-Homework-Bootstrap/
