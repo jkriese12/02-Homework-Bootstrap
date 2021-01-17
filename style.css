@@ -1,36 +1,50 @@
 /* Website background */
 body {
-    /* background-image: url(swbackground.jpg) */
-    background-color: rgb(228, 236, 236);
+  /* background-image: url(swbackground.jpg) */
+  background-color: rgb(228, 236, 236);
 }
 
 /* Navigation bar formatting - background, text size and location */
 .nav-link {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .nav-left {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 .nav-center {
-    padding-left: 20px;
-    padding-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .nav-background {
-    background-color: rgb(21, 90, 90);
+  background-color: rgb(21, 90, 90);
 }
 
 .nav-name {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .aboutMe {
-    font-size: 60px;   
- }
+  font-size: 60px;
+}
 
 .aboutMePic {
-    align-content: center;
+  align-content: center;
 }
-    
+
+.portfolioList {
+  margin-left: 50px;
+}
+
+.portfolioImg {
+  margin-left: 50px;
+  width: 200px;
+  height: 150px;
+}
+
+.indexPhoto {
+  height: auto;
+  width: auto;
+}
