@@ -10,6 +10,10 @@ Screenshot of application included in files, links for github below
 
 Added current work to the portfolio tab with updates to the connect tab to display up to date information.
 
+3/14 Update
+
+Changed pinned repositories for more up to date work!
+
 _Repository_
 https://github.com/jkriese12/02-Homework-Bootstrap
 _Webpage_
